@@ -1,0 +1,5 @@
+.git
+.sites-runtime
+site-release.tar
+*.zip
+README.md
